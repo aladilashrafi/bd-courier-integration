@@ -1,0 +1,16 @@
+{
+  "name": "bd-courier-integration",
+  "owner": { "name": "Al Adil Ashrafi", "url": "https://github.com/aladilashrafi" },
+  "plugins": [
+    {
+      "name": "bd-courier-integration",
+      "source": "./",
+      "description": "Bangladesh courier API integration skill: Pathao, Carrybee, Steadfast (Packzy) and RedX.",
+      "version": "1.0.0",
+      "author": { "name": "Al Adil Ashrafi" },
+      "license": "MIT",
+      "keywords": ["bangladesh", "courier", "pathao", "steadfast", "redx", "carrybee", "woocommerce", "cod"],
+      "category": "ecommerce"
+    }
+  ]
+}

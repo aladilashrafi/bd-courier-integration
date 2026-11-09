@@ -1,0 +1,10 @@
+{
+  "name": "bd-courier-integration",
+  "version": "1.0.0",
+  "description": "Bangladesh courier API integration skill: Pathao, Carrybee, Steadfast (Packzy) and RedX — booking, COD, tracking, webhooks, status sync, WooCommerce templates.",
+  "author": { "name": "Al Adil Ashrafi", "url": "https://github.com/aladilashrafi" },
+  "homepage": "https://github.com/aladilashrafi/bd-courier-integration",
+  "repository": "https://github.com/aladilashrafi/bd-courier-integration",
+  "license": "MIT",
+  "keywords": ["bangladesh", "courier", "pathao", "steadfast", "redx", "carrybee", "woocommerce", "cod", "logistics"]
+}
